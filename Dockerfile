@@ -1,1 +1,1 @@
-FROM n8nio/n8n:0.239.1
+FROM n8nio/n8n:1.2.1
